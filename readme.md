@@ -4,3 +4,4 @@
 * https://www.php.net/manual/en/ref.stream.php
 * https://gobyexample.com/
 * https://setkyar.com/setup-server-monitoring-with-prometheus-node-exporter-and-grafana-on-ec2/
+* https://laravel.com/docs/7.x/errors
