@@ -9,3 +9,4 @@
 * https://docs.docker.com/docker-for-mac/
 * https://laravel.com/docs/8.x/dusk
 * https://psysh.org/
+* https://www.educative.io/edpresso/how-to-delete-remote-branches-in-git
