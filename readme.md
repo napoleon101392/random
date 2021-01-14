@@ -11,3 +11,4 @@
 * https://psysh.org/
 * https://www.educative.io/edpresso/how-to-delete-remote-branches-in-git
 * https://forum.sublimetext.com/t/selecting-the-beginning-of-all-lines/14904
+* https://nickjanetakis.com/blog/docker-tip-35-connect-to-a-database-running-on-your-docker-host
